@@ -1,9 +1,9 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-## Name :	
-## Roll no:
-## Date of experiment : 
+## Name :	MIRUDHULA D
+## Roll no: 212221230060
+## Date of experiment : 20-11-2022
   
   
 ## Aim: To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
@@ -203,6 +203,16 @@ Result :
 Configuring an ADC and the input values are displayed on LCD screen 
 
 Output screen shots :
+
+![image](https://user-images.githubusercontent.com/94828147/204125343-8ed38d65-d30c-42df-ba06-9bad649a3b97.png)
+
+![image](https://user-images.githubusercontent.com/94828147/204125352-1ad88f44-5325-4e5f-91af-2ca875dfcfa2.png)
+
+![image](https://user-images.githubusercontent.com/94828147/204125361-caa634ba-9519-42da-a5da-a2c9c6bfb2e1.png)
+
+## Result:
+
+Configuring an ADC and the input values are displayed on LCD screen
 
 
 
